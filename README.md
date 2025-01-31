@@ -1,5 +1,5 @@
 # AWS Projects
 Below is a list of AWS projects demonstrating various aspects of my cloud experience.
 
-* [CodePipeline](Codepipeline)
-* [ElasticBeanstalk](ElasticBeanstalk)
+* [CodePipeline](Codepipeline/README.md)
+* [ElasticBeanstalk](ElasticBeanstalk/README.md)
